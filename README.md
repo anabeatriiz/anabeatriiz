@@ -1,6 +1,6 @@
 ## Hi there 😄 
 
-###About me ❤️
+### About me ❤️
 
 My name is Ana Beatriz, I am a front-end student. 
 I love watching anime, doing sports and learning about technology.
