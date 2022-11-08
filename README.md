@@ -2,15 +2,17 @@
 
 ### About me ❤️
 
-My name is Ana Beatriz, I am a front-end student. 
+My name is Ana Beatriz, I am a Front-end student. 
 I love watching anime, doing sports and learning about technology.
 
 - 🌱 I’m currently learning ...
 
 - React JS
 - JavaScript
-- HTML
-- CSS
+- Salesforce 
+- Apex
+- LWC
+- SOQL
 
 <!--
 **anabeatriiz/anabeatriiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
